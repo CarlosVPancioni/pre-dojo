@@ -1,2 +1,11 @@
-Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
-quando estivermos avaliando a sua solução
+ - Awards são representadas por uma coluna denominada BADGES.
+	
+	Legenda: *: vencedor da partida
+			 $: terminou a partida com nenhuma morte.
+			 +: Realizou uma streak de 5 em um minuto
+			 !(x): Maior killstreak entre todos os jogadores, onde x é o número de kills da streak
+			 
+Obs: A award de streak não foi implementada.
+
+Nos resources segue o input no qual usei de exemplo para meus testes.
+

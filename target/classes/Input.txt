@@ -1,0 +1,16 @@
+23/04/2013 15:34:22 - New match 11348965 has started
+23/04/2013 15:36:04 - Roman killed Nick using M16			 
+23/04/2013 15:36:33 - <WORLD> killed Roman by DROWN			 
+23/04/2013 15:36:04 - Paulo killed Peter using Glock
+23/04/2013 15:36:04 - Paulo killed John using Glock	
+23/04/2013 15:36:04 - Stella killed Grace using Ak-47	
+23/04/2013 15:36:04 - Paulo killed Stella using M16	
+23/04/2013 15:36:04 - Jennifer killed Paulo using .45
+23/04/2013 15:36:04 - Dora killed Fernando using .45	
+23/04/2013 15:36:04 - Jennifer killed Dora using M16
+23/04/2013 15:36:04 - Jennifer killed Paulo using M16	
+23/04/2013 15:36:33 - <WORLD> killed Benjamin by DROWN	
+23/04/2013 15:36:04 - Jhonatam killed Allan using DesertEagle
+23/04/2013 15:36:04 - Jennifer killed Jhonatam using .45
+23/04/2013 15:36:04 - Jennifer killed Franklin using DesertEagle
+23/04/2013 15:39:22 - Match 11348965 has ended

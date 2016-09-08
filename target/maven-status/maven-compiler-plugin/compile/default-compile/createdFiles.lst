@@ -1,0 +1,6 @@
+predojo\main\LogInfo.class
+predojo\main\Main.class
+predojo\main\PlayerEngine.class
+predojo\main\OutputBuilder.class
+predojo\main\Player.class
+predojo\test\unit\InputLogBuilderUnit.class
